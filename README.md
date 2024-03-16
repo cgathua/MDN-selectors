@@ -15,3 +15,10 @@ In this task, we want you to make the following changes to the look of the conte
 *Give the element with a class of alert a 1px grey border.
 *If the element with a class of alert also has a class of stop, make the background red.
 *If the element with a class of alert also has a class of go, make the background green.
+
+Task 3
+In this task, we want you to make the following changes without adding to the HTML:
+
+Style links, making the link-state orange, visited links green, and remove the underline on hover.
+Make the first element inside the container font-size: 150% and the first line of that element red.
+Stripe every other row in the table by selecting these rows and giving them a background color of #333 and foreground of white.
